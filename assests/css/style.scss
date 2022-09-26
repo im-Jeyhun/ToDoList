@@ -1,0 +1,30 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    padding: 6rem;
+    margin: auto;
+}
+.top {
+
+text-align: center;
+    input {
+        width: 80%;
+        padding: 0 10px ;
+    }
+    button {
+        width: 20% ;
+        height: 40px;
+    }
+
+    form{
+        display: flex;
+
+    }
+}
+
+.base {
+    justify-content: center;
+}
